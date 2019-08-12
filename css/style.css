@@ -1,0 +1,31 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: lightblue;
+}
+
+.member__heading{
+	font-size: 35px;
+	color: blue;
+	margin: 50px;
+
+}
+
+.member_heading{
+	font-size: 35px;
+	color: blue;
+}
+
+.member__text{
+	background: blue;
+}
+
+.member__label{
+	font-size: 20px;
+	margin: 50px;
+	color: blue;
+}
